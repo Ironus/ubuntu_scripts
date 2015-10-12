@@ -5,6 +5,13 @@ Loading your battery like that SHOULD* extend your battery life duration. <br />
 *I'm not taking any responsibility for no results or possible worse battery life.<br />
 I wrote that script only to help you to track your battery level and it's your decision if you're using that piece of software or not.*<br />
 <br />
+## Installation:
+You might need to install acpi package first.
+```
+sudo apt-get install acpi
+```
+If you already have acpi package installed, then just add script to your startup applications and restart your laptop.
+
 ## Troubleshooting:<br />
 - Script is not showing battery images on notifications<br />
   - It's using default images from ubuntu's files (/usr/share/icons/gnome/32x32/status/). If you can't see any of them or you're getting error saying that there is no such file, then you should change that path accordingly to your system.<br />
