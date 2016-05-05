@@ -1,7 +1,4 @@
 #!/bin/bash
-#backupScript.sh
-#author: Konrad "Ironus" Zierek
-#contact: konzie@st.amu.edu.pl
 
 # Script to make backup files from source_dir
 # and save them in destination_dir
