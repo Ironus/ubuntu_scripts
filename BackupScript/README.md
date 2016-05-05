@@ -1,4 +1,4 @@
-# BatteryLife<br />
+# BackupScript<br />
 Bash script for making recursive backup of indicated folder.<br />
 <br />
 ## Installation:
